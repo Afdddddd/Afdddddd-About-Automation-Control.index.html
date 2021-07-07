@@ -1,0 +1,72 @@
+header {
+  background-color: #0067a3;
+}
+
+#top_menu{
+  position: fixed;
+  left:0;
+  right:0;
+  top:0;
+  height: 114px;
+}
+
+#logo{
+  float: left;
+  width: 500px;
+  margin-top: 30px;
+}
+
+#logo a{
+  color:white;
+}
+
+li a {
+  color:white;
+  font-weight: bold;
+}
+
+.on a {
+  color:black;
+  font-weight: bold;
+}
+
+.container {
+ width:1500px;
+ margin:0 auto;
+}
+
+#section2 {
+  background-color: #CCCCCC;
+}
+
+#section3 {
+  background-color: #FFE200;
+}
+
+body {
+  margin: 0px;
+}
+
+#top_menu .container ul li {
+  float: left;
+  padding-left: 25px;
+}
+
+ul {
+  float:right;
+  list-style: none;
+  margin-top: 73px;
+}
+
+
+h1 {
+  display: block;
+}
+#contents  section{
+  height: 100vh;
+  padding-top:120px
+}
+
+a{
+  text-decoration:none;
+}
